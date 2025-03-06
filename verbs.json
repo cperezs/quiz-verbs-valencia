@@ -1,0 +1,332 @@
+{
+    "perdre": {
+        "Present": {
+            "1a per. sing.": "perd",
+            "2a pers. sing.": "perds",
+            "3a pers. sing.": "perd",
+            "1a pers. pl.": "perdem",
+            "2a pers. pl.": "perdeu",
+            "3a pers. pl.": "perden"
+        },
+        "Perfet": {
+            "1a per. sing.": "he perdut",
+            "2a pers. sing.": "has perdut",
+            "3a pers. sing.": "ha perdut",
+            "1a pers. pl.": "hem perdut",
+            "2a pers. pl.": "heu perdut",
+            "3a pers. pl.": "han perdut"
+        },
+        "Imperfet": {
+            "1a per. sing.": "perdia",
+            "2a pers. sing.": "perdies",
+            "3a pers. sing.": "perdia",
+            "1a pers. pl.": "perdíem",
+            "2a pers. pl.": "perdíeu",
+            "3a pers. pl.": "perdien"
+        },
+        "Plusquamperfet": {
+            "1a per. sing.": "havia perdut",
+            "2a pers. sing.": "havies perdut",
+            "3a pers. sing.": "havia perdut",
+            "1a pers. pl.": "havíem perdut",
+            "2a pers. pl.": "havíeu perdut",
+            "3a pers. pl.": "havien perdut"
+        },
+        "Passat simple": {
+            "1a per. sing.": "perdí",
+            "2a pers. sing.": "perderes",
+            "3a pers. sing.": "perdé",
+            "1a pers. pl.": "perdérem",
+            "2a pers. pl.": "perdéreu",
+            "3a pers. pl.": "perderen"
+        },
+        "Passat perifràstic": {
+            "1a per. sing.": "vaig perdre",
+            "2a pers. sing.": "vas perdre",
+            "3a pers. sing.": "va perdre",
+            "1a pers. pl.": "vam perdre",
+            "2a pers. pl.": "vau perdre",
+            "3a pers. pl.": "van perdre"
+        },
+        "Futur": {
+            "1a per. sing.": "perdré",
+            "2a pers. sing.": "perdràs",
+            "3a pers. sing.": "perdrà",
+            "1a pers. pl.": "perdrem",
+            "2a pers. pl.": "perdreu",
+            "3a pers. pl.": "perdran"
+        },
+        "Condicional": {
+            "1a per. sing.": "perdria",
+            "2a pers. sing.": "perdries",
+            "3a pers. sing.": "perdria",
+            "1a pers. pl.": "perdríem",
+            "2a pers. pl.": "perdríeu",
+            "3a pers. pl.": "perdrien"
+        }
+    },
+    "cantar": {
+        "Present": {
+            "1a per. sing.": "cante",
+            "2a pers. sing.": "cantes",
+            "3a pers. sing.": "canta",
+            "1a pers. pl.": "cantem",
+            "2a pers. pl.": "canteu",
+            "3a pers. pl.": "canten"
+        },
+        "Perfet": {
+            "1a per. sing.": "he cantat",
+            "2a pers. sing.": "has cantat",
+            "3a pers. sing.": "ha cantat",
+            "1a pers. pl.": "hem cantat",
+            "2a pers. pl.": "heu cantat",
+            "3a pers. pl.": "han cantat"
+        },
+        "Imperfet": {
+            "1a per. sing.": "cantava",
+            "2a pers. sing.": "cantaves",
+            "3a pers. sing.": "cantava",
+            "1a pers. pl.": "cantàvem",
+            "2a pers. pl.": "cantàveu",
+            "3a pers. pl.": "cantaven"
+        },
+        "Plusquamperfet": {
+            "1a per. sing.": "havia cantat",
+            "2a pers. sing.": "havies cantat",
+            "3a pers. sing.": "havia cantat",
+            "1a pers. pl.": "havíem cantat",
+            "2a pers. pl.": "havíeu cantat",
+            "3a pers. pl.": "havien cantat"
+        },
+        "Passat simple": {
+            "1a per. sing.": "cantí",
+            "2a pers. sing.": "cantares",
+            "3a pers. sing.": "cantà",
+            "1a pers. pl.": "cantàrem",
+            "2a pers. pl.": "cantàreu",
+            "3a pers. pl.": "cantaren"
+        },
+        "Passat perifràstic": {
+            "1a per. sing.": "vaig cantar",
+            "2a pers. sing.": "vas cantar",
+            "3a pers. sing.": "va cantar",
+            "1a pers. pl.": "vam cantar",
+            "2a pers. pl.": "vau cantar",
+            "3a pers. pl.": "van cantar"
+        },
+        "Futur": {
+            "1a per. sing.": "cantaré",
+            "2a pers. sing.": "cantaràs",
+            "3a pers. sing.": "cantarà",
+            "1a pers. pl.": "cantarem",
+            "2a pers. pl.": "cantareu",
+            "3a pers. pl.": "cantaran"
+        },
+        "Condicional": {
+            "1a per. sing.": "cantaria",
+            "2a pers. sing.": "cantaries",
+            "3a pers. sing.": "cantaria",
+            "1a pers. pl.": "cantaríem",
+            "2a pers. pl.": "cantaríeu",
+            "3a pers. pl.": "cantarien"
+        }
+    },
+    "témer": {
+        "Present": {
+            "1a per. sing.": "tem",
+            "2a pers. sing.": "tems",
+            "3a pers. sing.": "tem",
+            "1a pers. pl.": "temem",
+            "2a pers. pl.": "temeu",
+            "3a pers. pl.": "temen"
+        },
+        "Perfet": {
+            "1a per. sing.": "he temut",
+            "2a pers. sing.": "has temut",
+            "3a pers. sing.": "ha temut",
+            "1a pers. pl.": "hem temut",
+            "2a pers. pl.": "heu temut",
+            "3a pers. pl.": "han temut"
+        },
+        "Imperfet": {
+            "1a per. sing.": "temia",
+            "2a pers. sing.": "temies",
+            "3a pers. sing.": "temia",
+            "1a pers. pl.": "temíem",
+            "2a pers. pl.": "temíeu",
+            "3a pers. pl.": "temien"
+        },
+        "Plusquamperfet": {
+            "1a per. sing.": "havia temut",
+            "2a pers. sing.": "havies temut",
+            "3a pers. sing.": "havia temut",
+            "1a pers. pl.": "havíem temut",
+            "2a pers. pl.": "havíeu temut",
+            "3a pers. pl.": "havien temut"
+        },
+        "Passat simple": {
+            "1a per. sing.": "temí",
+            "2a pers. sing.": "temeres",
+            "3a pers. sing.": "temé",
+            "1a pers. pl.": "temérem",
+            "2a pers. pl.": "teméreu",
+            "3a pers. pl.": "temeren"
+        },
+        "Passat perifràstic": {
+            "1a per. sing.": "vaig témer",
+            "2a pers. sing.": "vas témer",
+            "3a pers. sing.": "va témer",
+            "1a pers. pl.": "vam témer",
+            "2a pers. pl.": "vau témer",
+            "3a pers. pl.": "van témer"
+        },
+        "Futur": {
+            "1a per. sing.": "temeré",
+            "2a pers. sing.": "temeràs",
+            "3a pers. sing.": "temerà",
+            "1a pers. pl.": "temerem",
+            "2a pers. pl.": "temereu",
+            "3a pers. pl.": "temeran"
+        },
+        "Condicional": {
+            "1a per. sing.": "temeria",
+            "2a pers. sing.": "temeries",
+            "3a pers. sing.": "temeria",
+            "1a pers. pl.": "temeríem",
+            "2a pers. pl.": "temeríeu",
+            "3a pers. pl.": "temerien"
+        }
+    },
+    "dormir": {
+        "Present": {
+            "1a per. sing.": "dorm",
+            "2a pers. sing.": "dorms",
+            "3a pers. sing.": "dorm",
+            "1a pers. pl.": "dormim",
+            "2a pers. pl.": "dormiu",
+            "3a pers. pl.": "dormen"
+        },
+        "Perfet": {
+            "1a per. sing.": "he dormit",
+            "2a pers. sing.": "has dormit",
+            "3a pers. sing.": "ha dormit",
+            "1a pers. pl.": "hem dormit",
+            "2a pers. pl.": "heu dormit",
+            "3a pers. pl.": "han dormit"
+        },
+        "Imperfet": {
+            "1a per. sing.": "dormia",
+            "2a pers. sing.": "dormies",
+            "3a pers. sing.": "dormia",
+            "1a pers. pl.": "dormíem",
+            "2a pers. pl.": "dormíeu",
+            "3a pers. pl.": "dormien"
+        },
+        "Plusquamperfet": {
+            "1a per. sing.": "havia dormit",
+            "2a pers. sing.": "havies dormit",
+            "3a pers. sing.": "havia dormit",
+            "1a pers. pl.": "havíem dormit",
+            "2a pers. pl.": "havíeu dormit",
+            "3a pers. pl.": "havien dormit"
+        },
+        "Passat simple": {
+            "1a per. sing.": "dormí",
+            "2a pers. sing.": "dormires",
+            "3a pers. sing.": "dormí",
+            "1a pers. pl.": "dormírem",
+            "2a pers. pl.": "dormíreu",
+            "3a pers. pl.": "dormiren"
+        },
+        "Passat perifràstic": {
+            "1a per. sing.": "vaig dormir",
+            "2a pers. sing.": "vas dormir",
+            "3a pers. sing.": "va dormir",
+            "1a pers. pl.": "vam dormir",
+            "2a pers. pl.": "vau dormir",
+            "3a pers. pl.": "van dormir"
+        },
+        "Futur": {
+            "1a per. sing.": "dormiré",
+            "2a pers. sing.": "dormiràs",
+            "3a pers. sing.": "dormirà",
+            "1a pers. pl.": "dormirem",
+            "2a pers. pl.": "dormireu",
+            "3a pers. pl.": "dormiran"
+        },
+        "Condicional": {
+            "1a per. sing.": "dormiria",
+            "2a pers. sing.": "dormiries",
+            "3a pers. sing.": "dormiria",
+            "1a pers. pl.": "dormiríem",
+            "2a pers. pl.": "dormiríeu",
+            "3a pers. pl.": "dormirien"
+        }
+    },
+    "servir": {
+        "Present": {
+            "1a per. sing.": "servisc",
+            "2a pers. sing.": "serveixes",
+            "3a pers. sing.": "serveix",
+            "1a pers. pl.": "servim",
+            "2a pers. pl.": "serviu",
+            "3a pers. pl.": "serveixen"
+        },
+        "Perfet": {
+            "1a per. sing.": "he servit",
+            "2a pers. sing.": "has servit",
+            "3a pers. sing.": "ha servit",
+            "1a pers. pl.": "hem servit",
+            "2a pers. pl.": "heu servit",
+            "3a pers. pl.": "han servit"
+        },
+        "Imperfet": {
+            "1a per. sing.": "servia",
+            "2a pers. sing.": "servies",
+            "3a pers. sing.": "servia",
+            "1a pers. pl.": "servíem",
+            "2a pers. pl.": "servíeu",
+            "3a pers. pl.": "servien"
+        },
+        "Plusquamperfet": {
+            "1a per. sing.": "havia servit",
+            "2a pers. sing.": "havies servit",
+            "3a pers. sing.": "havia servit",
+            "1a pers. pl.": "havíem servit",
+            "2a pers. pl.": "havíeu servit",
+            "3a pers. pl.": "havien servit"
+        },
+        "Passat simple": {
+            "1a per. sing.": "serví",
+            "2a pers. sing.": "servires",
+            "3a pers. sing.": "serví",
+            "1a pers. pl.": "servírem",
+            "2a pers. pl.": "servíreu",
+            "3a pers. pl.": "serviren"
+        },
+        "Passat perifràstic": {
+            "1a per. sing.": "vaig servir",
+            "2a pers. sing.": "vas servir",
+            "3a pers. sing.": "va servir",
+            "1a pers. pl.": "vam servir",
+            "2a pers. pl.": "vau servir",
+            "3a pers. pl.": "van servir"
+        },
+        "Futur": {
+            "1a per. sing.": "serviré",
+            "2a pers. sing.": "serviràs",
+            "3a pers. sing.": "servirà",
+            "1a pers. pl.": "servirem",
+            "2a pers. pl.": "servireu",
+            "3a pers. pl.": "serviran"
+        },
+        "Condicional": {
+            "1a per. sing.": "serviria",
+            "2a pers. sing.": "serviries",
+            "3a pers. sing.": "serviria",
+            "1a pers. pl.": "serviríem",
+            "2a pers. pl.": "serviríeu",
+            "3a pers. pl.": "servirien"
+        }
+    }
+}
