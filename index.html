@@ -12,6 +12,7 @@
         <p id="question" class="fs-4 text-center"></p>
         <input type="text" id="answer" class="form-control text-center" autocapitalize="none">
         <button id="next" class="btn btn-primary mt-3">Següent</button>
+        <div id="correct" class="text-center mt-3"></div>
     </div>
 
     <script>
@@ -37,21 +38,29 @@
             document.getElementById('answer').value = "";
             document.getElementById('answer').style.backgroundColor = "";
             document.getElementById('answer').dataset.correct = correctAnswer;
+            document.getElementById('correct').textContent = "";
         }
 
-        document.getElementById('answer').addEventListener('input', function() {
-            const answer = this.value.trim().toLowerCase();
-            const correctAnswer = this.dataset.correct.toLowerCase();
-            if (answer === correctAnswer) {
-                this.style.backgroundColor = "lightgreen";
-            } else {
-                this.style.backgroundColor = "";
-            }
-        });
+        // document.getElementById('answer').addEventListener('input', function() {
+        //     const answer = this.value.trim().toLowerCase();
+        //     const correctAnswer = this.dataset.correct.toLowerCase();
+        //     if (answer === correctAnswer) {
+        //         this.style.backgroundColor = "lightgreen";
+        //     } else {
+        //         this.style.backgroundColor = "";
+        //     }
+        // });
 
         document.getElementById('answer').addEventListener('keypress', function(event) {
             if (event.key === 'Enter') {
-                document.getElementById('next').click();
+                const answer = this.value.trim().toLowerCase();
+                const correctAnswer = this.dataset.correct.toLowerCase();
+                if (answer === correctAnswer) {
+                    this.style.backgroundColor = "lightgreen";
+                } else {
+                    this.style.backgroundColor = "lightcoral";
+                    document.getElementById('correct').textContent = correctAnswer;
+                }
             }
         });
 
